@@ -9,7 +9,7 @@
 + [專題演講](https://github.com/yuancc12/DataMining/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/DataMining/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [筆記區](https://github.com/yuancc12/DataMining/blob/main/README.md#%E7%AD%86%E8%A8%98%E5%8D%80)
-+ [文獻]()
++ [文獻](https://github.com/yuancc12/DataMining/blob/main/README.md#%E6%96%87%E7%8D%BB)
 # 簡介
 **授課教師:吳怡僅教授**
 
